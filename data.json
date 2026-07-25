@@ -1,0 +1,39 @@
+{
+  "raids": {
+    "寒冰之刃": { "max_players": 15 },
+    "破滅與渾沌": { "max_players": 15 },
+    "Fernon": { "max_players": 8 },
+	"獸王": { "max_players": 8 },
+	"靈王": { "max_players": 8 },
+	"貝利亞": { "max_players": 20 },
+	"派蒙": { "max_players": 20 },
+	"不死龍": { "max_players": 15 },
+	"冰龍": { "max_players": 15 },
+	"波魯圖斯": { "max_players": 8 },
+	"巨型武裝": { "max_players": 12 },
+	"巨型武裝完全體": { "max_players": 12 }
+  },
+  "jobs": [
+    "賤士", 
+    "躬手", 
+    "咒師", 
+    "拳L"
+  ],
+  "partner_cards": [
+    "無", 
+    "阿努比斯", 
+    "氣泡精靈", 
+    "機甲人哈密斯",
+	"獨翼",
+	"雷娜",
+	"Chloe",
+	"控偶師",
+	"海盜王丹尼爾",
+	"小丑米米",
+	"Amon",
+	"大天使",
+	"水公主",
+	"Yuna",
+	"金星"
+  ]
+}
